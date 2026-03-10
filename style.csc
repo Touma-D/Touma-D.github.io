@@ -1,0 +1,13 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+header { background: #003366; color: white; padding: 20px; text-align: center; }
+nav { background: #005599; padding: 10px; text-align: center; }
+nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+main { padding: 20px; }
+footer { background: #003366; color: white; text-align: center; padding: 10px; margin-top: 20px; }
+
+.news { background: white; padding: 15px; margin-bottom: 10px; border-radius: 5px; }
+.section, .pub-section, .project-section { background: white; padding: 15px; margin-bottom: 20px; border-radius: 5px; }
+.person { margin-bottom: 12px; }
+.name { font-weight: bold; font-size: 1.1em; }
+.pub-item { margin-bottom: 10px; }
+.project-title { font-size: 1.2em; font-weight: bold; margin-bottom: 5px; }
